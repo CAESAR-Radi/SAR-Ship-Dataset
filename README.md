@@ -29,3 +29,5 @@ DOI = {10.3390/rs11070765}
 }
 
 Besides, we own many thanks to  China Center for Resources Satellite Data and Application and Copernicus Open Access Hub for providing Gaofen-3 images and Sentinel-1 images, respectively.
+
+This research was funded by National Key Research and Development Program of China (2016YFB0501501) and the National Natural Science Foundation of China under Grant 41331176.
