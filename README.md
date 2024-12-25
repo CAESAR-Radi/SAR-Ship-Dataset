@@ -8,11 +8,9 @@ We label all the ships as one category at current stage.
 
 You can also find an old version of our dataset in this site.
 
-Besides, our dataset is so large that you cannot download it direcly, we start LFS service for it and you need to install lfs for your computer and download the dataset 
-
-by command like "git lfs clone https://github.com/CAESAR-Radi/SAR-Ship-Dataset.git". Maybe sometimes, bandwidth of our lfs runs out in current month and you can't download it, 
-
-then it will reset in next month.
+In addition, our data set is too large for you to download directly, we provide you with the following two download methods.
+You can download the dataset from [Google Drive](https://drive.google.com/drive/folders/1wcyV2nzcibh3EoaTuJ67HoS6SqakeGB9?usp=drive_link)<br>
+You can download the dataset from [Baidu Netdisk](https://pan.baidu.com/s/1bGfRKVMNcTGzcxmAmbbVXQ?pwd=gj3n).
 
 This dataset labeled by SAR experts was created using 102 Chinese Gaofen-3 images and 108 Sentinel-1 images. It consists of 39,729 ship chips(remove some repeat clips) of 256 pixels in both range and azimuth. These ships mainly have distinct scales and backgrounds. It can be used to develop object detectors for multi-scale and small object detection. The details of this dataset is referred to "Wang, Yuanyuan, Chao Wang, Hong Zhang, Yingbo Dong, and Sisi Wei. 2019. "A SAR Dataset of Ship Detection for Deep Learning under Complex Backgrounds." Remote Sensing 11 (7). doi: 10.3390/rs11070765."
 
